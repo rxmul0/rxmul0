@@ -86,7 +86,7 @@ Todas verificáveis no [Credly](https://www.credly.com/users/romulo-rodrigues.c3
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=rxmul0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rxmul0&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rxmul0&theme=tokyonight&hide_border=true" height="165" />
+<img src="https://streak-stats.demolab.com/?user=rxmul0&theme=tokyonight&hide_border=true" height="165" />
 
 </div>
 
