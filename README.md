@@ -88,8 +88,6 @@ Todas verificáveis no [Credly](https://www.credly.com/users/romulo-rodrigues.c3
 <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rxmul0&theme=tokyonight" />
 <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rxmul0&theme=tokyonight" />
 
-<img src="https://streak-stats.demolab.com/?user=rxmul0&theme=tokyonight&hide_border=true" height="180" />
-
 </div>
 
 ---
